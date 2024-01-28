@@ -20,9 +20,14 @@ Given a person’s credit-related information, build a machine learning model th
 - 5.5 pipeline
 - 5.6 utils
 
-`Create enviroment`
+`Create environment`
+
 conda create -p env python==3.8 -y
+
 `Activate enviroment`
+
 conda activate env/
+
 `Install requirements`
+
 pip install -r requirements.txt 
