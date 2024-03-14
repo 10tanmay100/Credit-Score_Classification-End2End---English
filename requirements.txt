@@ -1,3 +1,6 @@
 pandas
 numpy
+ipykernel
+pyyaml
+from_root
 -e .

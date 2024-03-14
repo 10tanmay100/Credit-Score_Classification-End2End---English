@@ -1,0 +1,1 @@
+from credit.entity.config_entity import DataIngestionConfig

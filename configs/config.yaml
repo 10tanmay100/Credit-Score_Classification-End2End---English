@@ -1,0 +1,5 @@
+artifacts-root: artifacts
+
+data_ingestion:
+  root_directory: artifacts/data_ingestion
+  url: https://drive.google.com/drive/folders/1EsDzDRCStrohb9V5avslHQXykQJBswo_?usp=drive_link
